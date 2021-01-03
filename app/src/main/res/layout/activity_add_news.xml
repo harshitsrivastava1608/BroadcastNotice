@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:src="@drawable/ic_launcher_background"
+            android:background="#000"
+            android:tooltipText="Your Image"
+            android:layout_marginTop="36dp"
+            android:layout_gravity="center"
+            android:id="@+id/addNewsPic"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/addNewsTitle"
+            android:inputType="text"
+            android:textColor="@color/black"
+
+            android:hint="Name"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/addNewsDesc"
+            android:inputType="text"
+
+            android:textColor="@color/black"
+            android:hint="News Description"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            />
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/addCateg"
+            android:layout_marginTop="40dp"
+            android:spinnerMode="dropdown"
+            android:tooltipText="Department"
+            android:background="@android:drawable/btn_dropdown"
+            android:gravity="center"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add"
+            android:background="@color/design_default_color_primary"
+            android:layout_marginTop="40dp"
+            android:layout_margin="40dp"
+            android:layout_centerInParent="true"
+
+            android:id="@+id/btnAdd"/>
+
+    </LinearLayout>
+</ScrollView>
