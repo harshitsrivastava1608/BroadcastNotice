@@ -1,5 +1,5 @@
 ##App for Firebase use in Android Applications</br>
-Motive: To Send any notice to all the concerned people in an organization</hr>
+Motive: To Send any notice to all the concerned people in an organization<hr>
 #Login Page
 <img src="screenshot1.jpg" alt="Login Page" title="Login Page" width="500" height="700"/>
 #Control Page
@@ -9,4 +9,4 @@ Motive: To Send any notice to all the concerned people in an organization</hr>
 #Notice Add Page
 <img src="screenshot5.jpg" alt="Notice Add Page" title="Notice Add Page" width="500" height="700"/>
 #Notice List View Page
-<img src="screenshot4.jpg" alt="Notice View List Page" title="Notice List View Page" width="700" height="700"/>
+<img src="screenshot4.jpg" alt="Notice View List Page" title="Notice List View Page" width="500" height="700"/>
