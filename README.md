@@ -1,5 +1,5 @@
 ##App for Firebase use in Android Applications</br>
-Motive: To Send any notice to all the concerned people in an organization</br>
+Motive: To Send any notice to all the concerned people in an organization</hr>
 #Login Page
 <img src="screenshot1.jpg" alt="Login Page" title="Login Page" width="500" height="700"/>
 #Control Page
